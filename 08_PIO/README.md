@@ -5,6 +5,7 @@
 焊接排针的Pico | 1
 Pico-Eval-Board  | 1
 USB TO Micro USB数据线 | 1
+
 ## 原理图
 ### WS2812B RBG LED
 ![原理图](./image/Schematic1.png)
